@@ -5,7 +5,7 @@ pipeline{
             steps{
                 echo "npm build"
                 nodejs('Node-16.8.0'){
-                    sh 'npm build'
+                    sh 'node main.js'
                 }
             }
         }
