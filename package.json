@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "random-numbers": "^1.0.8"
+  },
+  "name": "jenkins-git-integration",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeeshan50522/jenkins-git-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeeshan50522/jenkins-git-integration/issues"
+  },
+  "homepage": "https://github.com/Zeeshan50522/jenkins-git-integration#readme",
+  "description": ""
+}
